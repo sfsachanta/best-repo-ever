@@ -1,2 +1,2 @@
 # best-repo-ever
-# Trailhead git basics module - test conflict
+# Trailhead git basics module - merge conflict
